@@ -34,4 +34,3 @@ to access the admin pannel one can use username-admin and password -1234 or can 
 
 and the user first need to install django in the IDE so that they can run the code to istall django user can user pip install django command because i have used django as framework.
 
-![Alt text](<Screenshot (48)-1.png>)
