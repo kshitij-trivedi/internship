@@ -1,0 +1,15 @@
+body{
+    background-image: url(../images/clab\ bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1400px 950px;
+   
+
+
+    
+}
+.rounded {
+    border-radius: 6.25rem!important;
+}
+/* p{
+    color: white;
+} */
